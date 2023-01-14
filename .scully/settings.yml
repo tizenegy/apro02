@@ -1,0 +1,11 @@
+identifier: lbc4w9ccnf41i9x2
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-blog
+homeFolder: /Users/nebula/dev/apro02
+distFolder: dist/my-blog
+outDir: /Users/nebula/dev/apro02/dist/static
+handle404: ''
+allowErrorCollect: true
